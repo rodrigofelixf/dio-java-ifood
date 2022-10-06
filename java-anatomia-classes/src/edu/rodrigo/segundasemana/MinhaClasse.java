@@ -1,3 +1,4 @@
+package edu.rodrigo.segundasemana;
 public class MinhaClasse {
     //esse corpo é da classe
 public static void main(String[] args) {

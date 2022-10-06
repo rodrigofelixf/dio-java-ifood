@@ -1,3 +1,4 @@
+package edu.rodrigo.primeirasemana;
 public class BoletimEstudantil {
 // codigo com indentação
     public static void main(String[] args) {
