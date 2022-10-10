@@ -7,5 +7,10 @@ public class TiposVariaveis {
         System.out.println(idade);
         System.out.println(salarioMinimo);
         System.out.println(cpf);
+    //Na linha abaixo esto testando as regras dos numeros primitivos
+        short numeroCurto = 1;
+        int numeroNormal = numeroCurto; // o tipo primitivo "int" pode receber um tipo "short"
+        short numeroCurto = numeroNormal; // mas ao contrario não funciona. O short não recebe um tipo "int"
+
     }
 }
