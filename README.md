@@ -6,4 +6,6 @@ Repositório para o bootcamp da DIO em parceira com o IFOOD usando a linguagem J
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-## Testando
+## Algumas informações:
+A príncipio eu venho de uma base básica de Python e atualmente estou aprendendo a sintaxe do JAVA.
+As inforamções dos conteúdo não está de uma forma linear! 
