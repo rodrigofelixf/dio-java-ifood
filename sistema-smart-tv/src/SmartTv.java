@@ -1,7 +1,7 @@
 public class SmartTv { //aqui ficam os atributos
     boolean ligada = false;
     int canal = 1;
-    int volume = 99;
+    private int volume = 99;
 
 
     public void ligar() {
@@ -34,6 +34,10 @@ public class SmartTv { //aqui ficam os atributos
         volume --;
         if (volume < 0)
             System.out.println("Você já chegou ao volume minimo");
+    }
+
+    public int getVolume(){
+        return volume;
     }
 
 }
