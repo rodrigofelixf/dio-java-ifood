@@ -12,9 +12,12 @@ public class Usuario {
         smartTv.aumentarVolume();
         smartTv.aumentarVolume();
         smartTv.aumentarVolume();
+        smartTv.mudarCanal(13);
+        
     
 
         System.out.println("Volume atual: " + smartTv.volume);
+        System.out.println("Canal Atual " + smartTv.canal);
         
         
 

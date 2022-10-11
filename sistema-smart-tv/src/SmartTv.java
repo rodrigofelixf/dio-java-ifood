@@ -13,6 +13,11 @@ public class SmartTv { //aqui ficam os atributos
         
     }
 
+    public void mudarCanal(int novoCanal) {
+        canal = novoCanal;
+        
+    }
+
     public void aumentarVolume() {
         if (ligada == true)
             volume ++;
